@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**mohzys23/mohzys23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohzys23
 
 
 - 🔭 I’m currently working on learning how to develop web applications using react.
