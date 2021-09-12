@@ -9,4 +9,6 @@
 - 📫 How to reach me: ubahmohzys@gmail.com.
 - ⚡ Fun fact: I play the violin.
 
-[Linkedin](https://www.linkedin.com/in/moses-ubah-887619109/)
+  Follow my socials
+
+  [Linkedin](https://www.linkedin.com/in/moses-ubah-887619109/)
