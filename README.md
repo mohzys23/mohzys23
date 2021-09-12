@@ -10,6 +10,6 @@
 - ⚡ Fun fact: I play the violin.
 
 
-  **Follow my socials<br>
+  ### Follow my socials<br>
 
   [Linkedin](https://www.linkedin.com/in/moses-ubah-887619109/)
