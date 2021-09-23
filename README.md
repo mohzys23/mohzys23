@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I play the violin.
 
 ## Public overall Stats 🚀 & Weekly dev stats 💻
-![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&include_all_commits=true&theme=radical) [![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23&theme=radical)](https://github.com/mohzys23/github-readme-stats) 
+![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&include_all_commits=true&theme=radical)[![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23&theme=radical)](https://github.com/mohzys23/github-readme-stats) 
 
 
 ## Languages
