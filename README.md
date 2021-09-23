@@ -9,6 +9,10 @@
 - 📫 How to reach me: ubahmohzys@gmail.com.
 - ⚡ Fun fact: I play the violin.
 
+## Stats
+![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&show_icons=true&theme=onedark)
+
+
 ## My skills 🧰
 
 
