@@ -9,14 +9,14 @@
 - 📫 How to reach me: ubahmohzys@gmail.com.
 - ⚡ Fun fact: I play the violin.
 
-## Stats
+## Public overall Stats 🚀
 ![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&include_all_commits=true&theme=radical) 
 
 
 ## Github Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&count_private=true&langs_count=8&theme=radical)](https://github.com/mohzys23/github-readme-stats)
 
-## 💻 Weekly stats
+## Weekly dev stats 💻
 [![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23&theme=radical)](https://github.com/mohzys23/github-readme-stats)
 
 
