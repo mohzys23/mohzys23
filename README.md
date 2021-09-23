@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I play the violin.
 
 ## Stats
-![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&theme=radical) 
+![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&include_all_commits=true&count_private=true&langs_count=8&theme=radical)](https://github.com/mohzys23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&count_private=true&langs_count=8&theme=radical)](https://github.com/mohzys23/github-readme-stats)
 
 
 
