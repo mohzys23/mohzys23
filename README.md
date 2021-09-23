@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I play the violin.
 
 ## My skills 🧰
-![html5](https://user-images.githubusercontent.com/39748749/134439985-aab1a2e1-fa56-436e-9b20-67217092cfa3.png)
 
 
   ### Follow my socials<br>
