@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I play the violin.
 
 
-## Weekly dev stats 💻
+## Weekly Stats 💻
 [![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23)](https://github.com/mohzys23/github-readme-stats)
 
 
