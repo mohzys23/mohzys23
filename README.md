@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Moses Ubah 👦🏽
+## Hi there 👋, I'm <a href="https://www.upwork.com/freelancers/~012163040271b5c61c">Moses Ubah</a> 👦🏽
 
 - 💻 I'm an Associate Degree holder in computer science
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
