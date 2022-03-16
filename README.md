@@ -2,7 +2,7 @@
 
 ## I'm Moses Ubah 👦🏽
 
-![visitors](https://visitor-badge.glitch.me/badge?mohzys23=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?mohzys23=39748749)
 
 - 💻 I'm an Associate Degree holder in computer science
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
