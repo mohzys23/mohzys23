@@ -1,4 +1,4 @@
-## Hi there 👋, I'm <a href="https://www.upwork.com/freelancers/~012163040271b5c61c">Moses Ubah</a> 👦🏽
+## Hi there 👋, I'm <a href="https://www.upwork.com/freelancers/~012163040271b5c61c" target="_blank">Moses Ubah</a> 👦🏽
 
 - 💻 I'm an Associate Degree holder in computer science
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
@@ -6,10 +6,14 @@
 - 👯 I’m looking to collaborate on Web and Mobile development, Python development.
 - 📫 How to reach me: ubahmohzys@gmail.com.
 - ⚡ Fun fact: I play the violin.
-- 
 
-## Public overall Stats 🚀 &  Weekly dev stats 💻
-![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&theme=radical)[![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23&theme=radical)](https://github.com/mohzys23/github-readme-stats) 
+
+## Weekly dev stats 💻
+[![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23)](https://github.com/mohzys23/github-readme-stats)
+
+
+## Public overall Stats 🚀
+![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true) 
 
 
 ## Languages 🗣️
