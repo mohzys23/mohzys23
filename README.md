@@ -17,7 +17,8 @@
 ## Languages 🗣️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&count_private=true&langs_count=8&theme=radical)](https://github.com/mohzys23/github-readme-stats)
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23" />
+<br>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23" width="600px" style="max-width: 70%" />
 
   ### Follow my socials<br>
 
