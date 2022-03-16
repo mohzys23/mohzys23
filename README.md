@@ -2,7 +2,7 @@
 
 ## I'm Moses Ubah 👦🏽
 
-- 💻 I'm currently studying computer science
+- 💻 I'm an Associate Degree holder in computer science
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
 - 🌱 I’m currently working with React Native for Mobile Development.
 - 👯 I’m looking to collaborate on Web and Mobile development, Python development.
