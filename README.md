@@ -25,4 +25,5 @@
 
   ### Follow my socials<br>
 
-  [Linkedin](https://www.linkedin.com/in/moses-ubah-887619109/)
+![Uploading black-linkedin.png…]()(https://www.linkedin.com/in/moses-ubah-887619109/)
+  
