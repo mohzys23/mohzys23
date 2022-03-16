@@ -4,7 +4,7 @@
 
 - 💻 I'm an Associate Degree holder in computer science
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
-- 🌱 I’m currently working with React Native for Mobile Development.
+- 🌱 I’m also currently polishing Mobile Development skill using React Native.
 - 👯 I’m looking to collaborate on Web and Mobile development, Python development.
 - 📫 How to reach me: ubahmohzys@gmail.com.
 - ⚡ Fun fact: I play the violin.
