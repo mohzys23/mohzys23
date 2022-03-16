@@ -2,8 +2,6 @@
 
 ## I'm Moses Ubah 👦🏽
 
-![visitors](https://visitor-badge.glitch.me/badge?mohzys23=39748749)
-
 - 💻 I'm an Associate Degree holder in computer science
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
 - 🌱 I’m currently working with React Native for Mobile Development.
@@ -19,7 +17,7 @@
 ## Languages 🗣️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&count_private=true&langs_count=8&theme=radical)](https://github.com/mohzys23/github-readme-stats)
 
-
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23
 
   ### Follow my socials<br>
 
