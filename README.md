@@ -2,7 +2,7 @@
 
 ### A passionate frontend developer and email newsletter template developer with some backend experience
 
-- 💻 I'm an Associate Degree holder in computer science
+<!-- - 💻 I'm an Associate Degree holder in computer science -->
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
 - 🌱 I’m also currently polishing Mobile Development skill using React Native.
 - 👯 I’m looking to collaborate on Web and Mobile development, Python development.
