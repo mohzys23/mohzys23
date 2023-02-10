@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm <a href="https://www.upwork.com/freelancers/~012163040271b5c61c" target="_blank">Moses Ubah</a> 👦🏽<br>
 
-### A passionate frontend developer and email newsletter template developer with some backend experience
+### A passionate software (frontend) developer and email newsletter template developer with some backend experience
 
 <!-- - 💻 I'm an Associate Degree holder in computer science -->
 - 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
