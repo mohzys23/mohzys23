@@ -1,10 +1,11 @@
 ## Hi there 👋, I'm <a href="https://www.upwork.com/freelancers/~012163040271b5c61c" target="_blank">Moses Ubah</a> 👦🏽<br>
 
-### A passionate software developer and email newsletter template developer with some backend experience
+### A passionate software developer and email newsletter template developer.
 
-<!-- - 💻 I'm an Associate Degree holder in computer science -->
-- 🔭 I’m currently working with React, Vue, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development and HTML Email Template Development.
-- 🌱 I’m also currently polishing Mobile Development skill using React Native.
+<!-- - 💻 I'm an Bachelor Degree holder in computer science -->
+- 🔭 I’m currently working with React, Nextjs, Typescript, React-Redux, Express, Node, MongoDB for Web Development.
+- 🔭 HTML5, CSS3, ActiveCampaign for HTML Email Template Development and Email Marketing Automation
+- 🌱 Currently polishing Mobile Development skill using React Native and Flutter.
 - 👯 I’m looking to collaborate on Web and Mobile development, Python development.
 - 📫 How to reach me: ubahmohzys@gmail.com.
 - ⚡ Fun fact: I play the violin.<br>
@@ -24,7 +25,7 @@
 ## Languages 🗣️
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23" width="600px" style="max-width: 70%" />
 
-  ### Follow my socials<br>
+### Follow my socials<br>
 
 
   
