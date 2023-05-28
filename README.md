@@ -11,10 +11,6 @@
 - ⚡ Fun fact: I play the violin.<br>
 
 
-## Weekly Stats 💻
-[![Moses's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohzys23)](https://github.com/mohzys23/github-readme-stats)
-
-
 ## Public overall Stats 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&layout=compact)](https://github.com/mohzys23/github-readme-stats)
 <br>
