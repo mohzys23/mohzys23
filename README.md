@@ -35,3 +35,6 @@
     <img src="https://github.com/mohzys23/mohzys23/assets/39748749/009db4c0-6d88-4630-a9e9-a18975b0a18c" alt="LinkedIn" width="48" height="48"/>
   </a>
 </div>
+
+## Download CV
+[Moses CV.pdf](https://github.com/mohzys23/mohzys23/files/15341414/Moses.CV.pdf)
