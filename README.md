@@ -22,6 +22,6 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23" width="600px" style="max-width: 70%" />
 
 ## Follow my socials
-[<img src="https://images.app.goo.gl/1MzbcCzcb3Tu5AYC7" alt="linkedin icon" width="30px" height="30px" />](https://www.linkedin.com/in/mosesubah/)
+![icons8-linkedin-48]((https://www.linkedin.com/in/mosesubah/))
 
   
