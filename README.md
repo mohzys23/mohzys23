@@ -30,13 +30,17 @@
 ---
 
 ### 🌐 Connect with Me
+
 <div align="center" style="display: flex; gap: 1rem; align-items: center;">
   <a href="https://www.linkedin.com/in/mosesubah/" target="_blank">
     <img src="https://github.com/mohzys23/mohzys23/assets/39748749/009db4c0-6d88-4630-a9e9-a18975b0a18c" alt="LinkedIn" width="48" height="48"/>
   </a>
-
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Mohzys233?style=social)](https://twitter.com/Mohzys233)
+  
+  <a href="https://twitter.com/Mohzys233" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Mohzys233?style=social" alt="Twitter Follow Badge" />
+  </a>
 </div>
+
 
 ## Download CV
 [Moses CV.pdf](https://github.com/mohzys23/mohzys23/files/15341414/Moses.CV.pdf)
