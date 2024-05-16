@@ -7,7 +7,7 @@
 ### 👨🏽‍💻 Professional Summary
 - **Expertise**: Proficient in modern web development using **React**, **Next.js**, **TypeScript**, **React-Redux**, **Express**, **Node.js**, and **MongoDB**.
 - **Email Development**: Specialized in creating responsive and effective HTML email templates using **HTML5**, **CSS3**, and **ActiveCampaign** for seamless email marketing automation.
-- **Mobile Development**: Experienced in developing cross-platform mobile applications with **React Native** and **Flutter**.
+- **Mobile Development**: Experienced in developing cross-platform mobile applications with **React Native**.
 - **Collaboration**: Proven ability to work collaboratively in a team environment, contributing to both frontend and backend development.
 - **Contact**: Reach out to me at [ubahmohzys@gmail.com](mailto:ubahmohzys@gmail.com).
 - **Fun Fact**: Outside of coding, I enjoy playing the violin.
