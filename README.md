@@ -37,7 +37,7 @@
   </a>
   
   <a href="https://twitter.com/Mohzys233" target="_blank">
-    ![icons8-twitter-48](https://github.com/mohzys23/mohzys23/assets/39748749/65f4c499-3b8e-47b0-9ac1-9f8e2dfe982d)
+    <img src="https://github.com/mohzys23/mohzys23/assets/39748749/65f4c499-3b8e-47b0-9ac1-9f8e2dfe982d" alt="Twitter" width="48" height="48"/>
   </a>
 </div>
 
