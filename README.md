@@ -13,7 +13,7 @@
 
 ## Public overall Stats 🚀
 ![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&card_width=50%)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&layout=compact&theme=radical&card_width=50%)](https://github.com/mohzys23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&layout=compact&card_width=50%)](https://github.com/mohzys23/github-readme-stats)
 <be>
 
 
