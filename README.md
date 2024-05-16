@@ -22,7 +22,7 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23" width="600px" style="max-width: 70%" />
 
 ## Follow my socials
-![icons8-linkedin-48](https://github.com/mohzys23/mohzys23/assets/39748749/009db4c0-6d88-4630-a9e9-a18975b0a18c)(https://www.linkedin.com/in/mosesubah/)
+[![LinkedIn](https://github.com/mohzys23/mohzys23/assets/39748749/009db4c0-6d88-4630-a9e9-a18975b0a18c)](https://www.linkedin.com/in/mosesubah/)
  
 
 
