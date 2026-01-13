@@ -41,6 +41,3 @@
   </a>
 </div>
 
-
-## Download CV
-[Moses CV.pdf](https://github.com/mohzys23/mohzys23/files/15341414/Moses.CV.pdf)
