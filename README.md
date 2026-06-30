@@ -1,43 +1,71 @@
-## Hi there 👋, I'm [Moses Ubah](https://www.upwork.com/freelancers/~012163040271b5c61c) 👦🏽
+# Hi there 👋, I'm **Moses Ubah**
 
-### Dedicated Software Engineer with a passion for developing scalable web and mobile applications.
+### Software Engineer • Full-Stack Developer • AI Integration Specialist
 
----
+I build real-world software products that solve practical problems.
 
-### 👨🏽‍💻 Professional Summary
-- **Expertise**: Proficient in modern web development using **React**, **Next.js**, **TypeScript**, **React-Redux**, **Express**, **Node.js**, and **MongoDB**.
-- **Email Development**: Specialized in creating responsive and effective HTML email templates using **HTML5**, **CSS3**, and **ActiveCampaign** for seamless email marketing automation.
-- **Mobile Development**: Experienced in developing cross-platform mobile applications with **React Native**.
-- **Collaboration**: Proven ability to work collaboratively in a team environment, contributing to both frontend and backend development.
-- **Contact**: Reach out to me at [ubahmohzys@gmail.com](mailto:ubahmohzys@gmail.com).
-- **Fun Fact**: Outside of coding, I enjoy playing the violin.
+My focus is on designing and developing web and mobile applications, SaaS platforms, and AI-powered systems that help businesses operate more efficiently and intelligently. I enjoy turning ideas into production-ready products with a strong emphasis on performance, usability, and clean architecture.
+
+A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don’t just “add AI features”; I design systems where AI meaningfully improves how the product works.
 
 ---
 
-### 🚀 GitHub Stats
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohzys23&count_private=true&show_icons=true&theme=default&hide_border=true" alt="Moses's GitHub stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohzys23&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="45%"/>
-</div>
+## 🚀 What I Do
+
+- Build full-stack web applications from idea to deployment  
+- Develop mobile apps with smooth, user-friendly experiences  
+- Integrate AI (LLMs, automation, smart agents) into real products  
+- Design scalable backend systems and APIs  
+- Work on SaaS platforms, dashboards, and business tools  
+- Focus on UX, performance, and product quality  
 
 ---
 
-### 🗣️ Languages & Technologies
-<div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohzys23" width="600px" style="max-width: 70%; margin: auto; display: block;"/>
-</div>
+## 🤖 AI Focus
+
+- LLM-powered applications (chat, assistants, workflows)  
+- AI automation systems for business processes  
+- Document intelligence & data extraction  
+- API integrations with AI services  
+- Practical AI features that improve real user workflows  
 
 ---
 
-### 🌐 Connect with Me
+## 🌍 About Me
 
-<div style="display: flex; gap: 1rem; align-items: center;">
-  <a href="https://www.linkedin.com/in/mosesubah/" target="_blank">
-    <img src="https://github.com/mohzys23/mohzys23/assets/39748749/009db4c0-6d88-4630-a9e9-a18975b0a18c" alt="LinkedIn" width="48" height="48"/>
-  </a>
-  
-  <a href="https://twitter.com/Mohzys233" target="_blank">
-    <img src="https://github.com/mohzys23/mohzys23/assets/39748749/65f4c499-3b8e-47b0-9ac1-9f8e2dfe982d" alt="Twitter" width="48" height="48"/>
-  </a>
-</div>
+- Passionate about building useful and impactful software  
+- Enjoy working on complex problems and turning them into simple solutions  
+- Always learning and improving my engineering and product skills  
+- Open to collaboration on innovative and ambitious projects  
 
+---
+
+## 📊 GitHub Stats
+
+
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohzys23&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+[![Moses's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohzys23&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mosesubah/  
+- 🌍 Upwork: https://www.upwork.com/freelancers/~012163040271b5c61c  
+- 📧 Email: ubahmohzys@gmail.com  
+
+---
+
+> “Building software is not just about code — it's about creating systems that make life and work better.”
