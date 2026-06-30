@@ -40,11 +40,6 @@ A big part of my recent work has been around **AI integration**—building appli
 
 ---
 
-## 📊 GitHub Stats
-
-
-
----
 
 ## 🔥 GitHub Streak
 
