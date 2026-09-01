@@ -4,9 +4,9 @@
 
 I build real-world software products that solve practical problems.
 
-My focus is on designing and developing web and mobile applications, SaaS platforms, and AI-powered systems that help businesses operate more efficiently and intelligently. I enjoy turning ideas into [...]
+My focus is on designing and developing web and mobile applications, SaaS platforms, and AI-powered systems that help businesses operate more efficiently and intelligently. I enjoy turning ideas in[...]
 
-A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don'[...] 
+A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don[...]
 
 ---
 
@@ -51,9 +51,9 @@ A big part of my recent work has been around **AI integration**—building appli
 
 ## 🧭 Languages & Tech
 
-<!-- Inline languages visualization -->
+<!-- Inline languages visualization (now using Markdown + raw URL for reliable rendering) -->
 <p align="center">
-  <img src="./assets/languages-chart.svg" alt="Languages & Tech — Top languages across public repositories" />
+  ![Languages & Tech — Top languages across public repositories](https://raw.githubusercontent.com/mohzys23/mohzys23/main/assets/languages-chart.svg)
 </p>
 
 ---
