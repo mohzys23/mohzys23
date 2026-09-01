@@ -4,9 +4,9 @@
 
 I build real-world software products that solve practical problems.
 
-My focus is on designing and developing web and mobile applications, SaaS platforms, and AI-powered systems that help businesses operate more efficiently and intelligently. I enjoy turning ideas into production-ready products with a strong emphasis on performance, usability, and clean architecture.
+My focus is on designing and developing web and mobile applications, SaaS platforms, and AI-powered systems that help businesses operate more efficiently and intelligently. I enjoy turning ideas into [...]
 
-A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don’t just “add AI features”; I design systems where AI meaningfully improves how the product works.
+A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don’[...]
 
 ---
 
@@ -51,7 +51,7 @@ A big part of my recent work has been around **AI integration**—building appli
 
 ## 📈 Activity Graph
 
-[![Moses's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohzys23&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Moses's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohzys23&theme=github-compact)](https://github.com/mohzys23)
 
 ---
 
