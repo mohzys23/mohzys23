@@ -6,7 +6,7 @@ I build real-world software products that solve practical problems.
 
 My focus is on designing and developing web and mobile applications, SaaS platforms, and AI-powered systems that help businesses operate more efficiently and intelligently. I enjoy turning ideas into [...]
 
-A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don’[...]
+A big part of my recent work has been around **AI integration**—building applications that use LLMs, automation, and intelligent workflows to enhance user experience and reduce manual work. I don'[...] 
 
 ---
 
@@ -49,9 +49,12 @@ A big part of my recent work has been around **AI integration**—building appli
 
 ---
 
-## 📈 Activity Graph
+## 🧭 Languages & Tech
 
-[![Moses's GitHub Activity Graph](https://ghchart.rshah.org/mohzys23)](https://github.com/mohzys23)
+<!-- Inline languages visualization -->
+<p align="center">
+  <img src="./assets/languages-chart.svg" alt="Languages & Tech — Top languages across public repositories" />
+</p>
 
 ---
 
