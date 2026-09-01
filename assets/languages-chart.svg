@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Languages and technology usage chart">
+  <style>
+    .title { font: 700 18px 'Inter', Arial, sans-serif; fill:#0f172a }
+    .label { font: 600 13px 'Inter', Arial, sans-serif; fill:#0f172a }
+    .percent { font: 600 12px 'Inter', Arial, sans-serif; fill:#0f172a }
+    .legend-text { font: 400 12px 'Inter', Arial, sans-serif; fill:#0f172a }
+  </style>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="180" rx="8" fill="#ffffff" />
+  <rect x="0.5" y="0.5" width="899" height="179" rx="8" fill="none" stroke="#e6edf3"/>
+
+  <!-- Title -->
+  <text x="24" y="36" class="title">Languages & Tech — Top languages across public repositories</text>
+
+  <!-- Stacked bar (total width 840, x starting 30, y 56, height 34) -->
+  <!-- Percent breakdown (approx): CSS 25%, JavaScript 20%, Python 19%, HTML 10%, Other 24%, TypeScript 2% -->
+  <!-- pixel widths for 840px: CSS 210, JS 168, Python 160, HTML 84, Other 201, TS 17 -->
+
+  <g transform="translate(30,56)">
+    <rect x="0" y="0" width="210" height="34" rx="6" fill="#563d7c" />
+    <rect x="210" y="0" width="168" height="34" rx="0" fill="#f1e05a" />
+    <rect x="378" y="0" width="160" height="34" rx="0" fill="#3572A5" />
+    <rect x="538" y="0" width="84" height="34" rx="0" fill="#e34c26" />
+    <rect x="622" y="0" width="201" height="34" rx="6" fill="#6B7280" />
+    <rect x="823" y="0" width="17" height="34" rx="6" fill="#3178C6" />
+
+    <!-- Percent labels on bar (white/black depending on contrast) -->
+    <text x="12" y="22" class="percent" fill="#ffffff">CSS — 25%</text>
+    <text x="238" y="22" class="percent" fill="#111827">JavaScript — 20%</text>
+    <text x="426" y="22" class="percent" fill="#ffffff">Python — 19%</text>
+    <text x="548" y="22" class="percent" fill="#ffffff">HTML — 10%</text>
+    <text x="662" y="22" class="percent" fill="#ffffff">Other — 24%</text>
+    <text x="832" y="22" class="percent" fill="#ffffff">TS 2%</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(30,110)">
+    <rect x="0" y="0" width="14" height="14" rx="3" fill="#563d7c" />
+    <text x="22" y="12" class="legend-text">CSS</text>
+
+    <rect x="110" y="0" width="14" height="14" rx="3" fill="#f1e05a" />
+    <text x="136" y="12" class="legend-text">JavaScript</text>
+
+    <rect x="260" y="0" width="14" height="14" rx="3" fill="#3572A5" />
+    <text x="286" y="12" class="legend-text">Python</text>
+
+    <rect x="380" y="0" width="14" height="14" rx="3" fill="#e34c26" />
+    <text x="406" y="12" class="legend-text">HTML</text>
+
+    <rect x="480" y="0" width="14" height="14" rx="3" fill="#6B7280" />
+    <text x="506" y="12" class="legend-text">Other / Unspecified</text>
+
+    <rect x="680" y="0" width="14" height="14" rx="3" fill="#3178C6" />
+    <text x="706" y="12" class="legend-text">TypeScript</text>
+  </g>
+
+  <!-- Footer note -->
+  <text x="30" y="154" class="label">Data computed from public repositories — counts of primary languages (approx).</text>
+
+</svg>
