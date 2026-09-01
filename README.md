@@ -51,7 +51,7 @@ A big part of my recent work has been around **AI integration**—building appli
 
 ## 📈 Activity Graph
 
-[![Moses's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohzys23&theme=github-compact)](https://github.com/mohzys23)
+[![Moses's GitHub Activity Graph](https://ghchart.rshah.org/mohzys23)](https://github.com/mohzys23)
 
 ---
 
